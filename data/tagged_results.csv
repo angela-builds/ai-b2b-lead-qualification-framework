@@ -1,0 +1,5 @@
+company,score,fit_status,positive_signals,negative_signals
+Alpha Lighting,60,Medium Fit,"led, fiber optic, architectural",
+Beta Retail,0,Reject,,ecommerce
+Gamma Studio,10,Reject,museum,
+Delta Optics,10,Reject,display,
