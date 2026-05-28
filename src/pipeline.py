@@ -1,4 +1,3 @@
-```python id="jlwm153"
 import pandas as pd
 from scoring_engine import calculate_score, classify_fit
 
